@@ -1,6 +1,5 @@
 import turtle
 import time
-import time
 import random
 from _tkinter import TclError
 
